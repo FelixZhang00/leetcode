@@ -2,6 +2,7 @@ package leetcode.Math_507;
 
 /**
  * Created by felix on 2017/11/25.
+ * https://leetcode.com/problems/perfect-number/description/
  */
 public class Solution {
 
